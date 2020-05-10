@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+.settings/
+.local/
+
+bin/
+out/
+
+*.classpath
+*.project
+*.iml
+
+*.class
+*.log
+hs_err_pid*
